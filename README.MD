@@ -2,8 +2,7 @@
 
 
 ## Introduction
-
-You are welcome, please explore the documentation and satiate your query. Also this is subject to continous modifications, For *PM*, any changes or conflicts should be first communicated with the team lead. 
+Learnable Kids is an LMS platform meant for kids between the ages of 5-12 years old to be able to learn in a more fun and interactive way doing away with the traditional way of learning. 
 
 ## _Routes_
 
